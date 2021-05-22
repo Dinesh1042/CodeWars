@@ -27,7 +27,8 @@ This repository only contains codewars challenges
 | 2    | [Find Missing Letter](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/findTheMissingLetter.js) |
 | 3    | [Min Permutation](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/minPermutation.js)           |
 | 4    | [Str to Hash](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/strToHash.js)                    |
-
+| 5    | [Morse Decode](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/decodeMorsecode.js)             |
+| 6    | [reverse or rotate](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/revrot.js)                 |
 ---
 
 ## **_7kyu katas_**
@@ -38,7 +39,7 @@ This repository only contains codewars challenges
 | ---- | ---------------------------------------------------------------------------------------------------------- |
 | 1    | [Largest Pair in Sum](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/largestPairInSum.js)           |
 | 2    | [Simply Remove Duplicate](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/simpleRemoveDuplicates.js) |
-
+| 3    | [Consective Items](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/consectiveItems.js)                |
 ---
 
 ## **_8kyu katas_**
