@@ -28,7 +28,10 @@ This repository only contains codewars challenges
 | 3    | [Min Permutation](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/minPermutation.js)           |
 | 4    | [Str to Hash](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/strToHash.js)                    |
 | 5    | [Morse Decode](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/decodeMorsecode.js)             |
-| 6    | [reverse or rotate](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/revrot.js)                 |
+| 6    | [Reverse or Rotate](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/revrot.js)                 |
+| 7    | [Break CamelCase](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/breakCamelCase.js)           |
+| 8    | [Salesman Travel](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/salesmanTravel.js)           |
+| 9    | [Sort String by contiguous](https://github.com/Dinesh1042/CodeWars/blob/main/6kyu/SortStringByContiguous.js)|
 ---
 
 ## **_7kyu katas_**
