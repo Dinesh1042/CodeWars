@@ -42,7 +42,9 @@ This repository only contains codewars challenges
 | ---- | ---------------------------------------------------------------------------------------------------------- |
 | 1    | [Largest Pair in Sum](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/largestPairInSum.js)           |
 | 2    | [Simply Remove Duplicate](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/simpleRemoveDuplicates.js) |
-| 3    | [Consective Items](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/consectiveItems.js)                |
+| 3    | [Consective Items](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/consectiveItems.js)               |
+| 5    | [Build A Square](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/BuildASquare.js)                    |
+| 6    | [Shorter Concat](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/shorterConact.js)                   |
 ---
 
 ## **_8kyu katas_**
