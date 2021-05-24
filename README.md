@@ -4,12 +4,22 @@ This repository only contains codewars challenges
 
 | S.No | Difficulty                                                    |
 | ---- | ------------------------------------------------------------- |
-| 1    | [5kyu](https://github.com/Dinesh1042/CodeWars/tree/main/6kyu) |
-| 2    | [6kyu](https://github.com/Dinesh1042/CodeWars/tree/main/6kyu) |
-| 3    | [7kyu](https://github.com/Dinesh1042/CodeWars/tree/main/7kyu) |
-| 4    | [8kyu](https://github.com/Dinesh1042/CodeWars/tree/main/8kyu) |
+| 1    | [4kyu](https://github.com/Dinesh1042/CodeWars/tree/main/4kyu) |
+| 2    | [5kyu](https://github.com/Dinesh1042/CodeWars/tree/main/6kyu) |
+| 3    | [6kyu](https://github.com/Dinesh1042/CodeWars/tree/main/6kyu) |
+| 4    | [7kyu](https://github.com/Dinesh1042/CodeWars/tree/main/7kyu) |
+| 5    | [8kyu](https://github.com/Dinesh1042/CodeWars/tree/main/8kyu) |
 
 ---
+
+## **_4kyu katas_**
+
+| S.No | Challenge Name                                                                                  |
+| ---- | ----------------------------------------------------------------------------------------------- |
+| 1    | [Remove Zero](https://github.com/Dinesh1042/CodeWars/blob/main/4kyu/removeZero.js)              |
+
+---
+
 
 ## **_5kyu katas_**
 
@@ -45,6 +55,7 @@ This repository only contains codewars challenges
 | 3    | [Consective Items](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/consectiveItems.js)               |
 | 5    | [Build A Square](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/BuildASquare.js)                    |
 | 6    | [Shorter Concat](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/shorterConact.js)                   |
+| 7    | [Presents](https://github.com/Dinesh1042/CodeWars/blob/main/7kyu/presents.js)                              |
 ---
 
 ## **_8kyu katas_**
