@@ -8,6 +8,9 @@
 // 0 and Strings should be ignored If number is in the typeof string that should be ignored
 
 function sortStudents(arr) {
+  
+  if(!arr.length) return arr
+  
   // Initialize a Empty array
   let finalArr = [];
 
@@ -15,8 +18,6 @@ function sortStudents(arr) {
   const sortedStudents = [...arr]
     .filter((item) => item > 0 && typeof item === "number")
     .sort((a, b) => a - b);
-
-  console.log(sortedStudents);
 
   finalArr = [...sortedStudents];
 
